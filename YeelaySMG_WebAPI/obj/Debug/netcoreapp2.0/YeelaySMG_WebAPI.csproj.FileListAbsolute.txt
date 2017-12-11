@@ -1,0 +1,11 @@
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\bin\Debug\netcoreapp2.0\YeelaySMG.xml
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\bin\Debug\netcoreapp2.0\YeelaySMG_WebAPI.deps.json
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\bin\Debug\netcoreapp2.0\YeelaySMG_WebAPI.runtimeconfig.json
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\bin\Debug\netcoreapp2.0\YeelaySMG_WebAPI.runtimeconfig.dev.json
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\bin\Debug\netcoreapp2.0\YeelaySMG_WebAPI.dll
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\bin\Debug\netcoreapp2.0\YeelaySMG_WebAPI.pdb
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\obj\Debug\netcoreapp2.0\YeelaySMG_WebAPI.csproj.CoreCompileInputs.cache
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\obj\Debug\netcoreapp2.0\YeelaySMG_WebAPI.AssemblyInfoInputs.cache
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\obj\Debug\netcoreapp2.0\YeelaySMG_WebAPI.AssemblyInfo.cs
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\obj\Debug\netcoreapp2.0\YeelaySMG_WebAPI.dll
+f:\GithubRepository\DoNET\Web\YeelaySMG\YeelaySMG_WebAPI\obj\Debug\netcoreapp2.0\YeelaySMG_WebAPI.pdb

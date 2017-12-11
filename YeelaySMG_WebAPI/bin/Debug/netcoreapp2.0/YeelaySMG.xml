@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>YeelaySMG_WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:YeelaySMG.Controllers.AccountController.Login(LoginViewModel)">
+            <summary>
+            登录
+            </summary>
+        </member>
+        <member name="M:YeelaySMG.Controllers.AccountController.Register(RegistorViewModel)">
+            <summary>
+            注册
+            </summary>
+        </member>
+        <member name="P:LoginViewModel.UserName">
+            <summary>用户名</summary>
+        </member>
+        <member name="P:LoginViewModel.Password">
+            <summary>密码</summary>
+        </member>
+        <member name="P:LoginViewModel.RememberMe">
+            <summary>是否记住密码</summary>
+        </member>
+        <member name="P:RegistorViewModel.UserName">
+            <summary>用户名</summary>
+        </member>
+        <member name="P:RegistorViewModel.Password">
+            <summary>密码</summary>
+        </member>
+        <member name="P:RegistorViewModel.RememberMe">
+            <summary>是否记住密码</summary>
+        </member>
+    </members>
+</doc>
